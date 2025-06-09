@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI Enthusiast | Developer | Tech Community Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+in+CSE+(AI);Co-Organizer+@+GDG+on+Campus;AI+%7C+ML+%7C+Data+Science;EcoDose+AI+Founder;Tech+Speaker+%26+Event+Host" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+in+CSE+(AI);Co-Organizer+@+GDG+on+Campus+Gurugram+University;AI+%7C+ML+%7C+Data+Science;Tech+Speaker+%26+Event+Host" alt="Typing SVG" />
 </p>
 
 ---
