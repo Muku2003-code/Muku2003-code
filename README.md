@@ -29,7 +29,11 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔬 [Plant Leaf Disease Detection](https://github.com/Muku2003-code/Plant-Leaf-Disease-Detection) | CNN-based classifier for custom dataset | Python, CNN, OpenCV |
-| 🎓 [Java Student Grade Calculator](https://github.com/Muku2003-code/Java-Student-Grade-Calculator) | Java GUI app for academic use | Java, Swing |
+| 🛡️ [Cyber Security Threat Analysis](https://github.com/Muku2003-code/Cyber-Security-Threat-Analysis) | Multi-year cyberattack trends analyzed using data viz & pattern mining | Python, Pandas, Matplotlib |
+| 🎓 [Java Student Grade Calculator](https://github.com/Muku2003-code/CodeSoft/tree/main/Java%20Student%20Grade%20Calculator) | GUI-based tool for managing and calculating grades | Java, Swing |
+| ➕ [Java Simple Calculator](https://github.com/Muku2003-code/CodeSoft/tree/main/Java%20Simple%20Calculator) | Basic calculator with arithmetic operations | Java, Swing |
+| 🔐 [Java Password Generator](https://github.com/Muku2003-code/CodeSoft/tree/main/Java%20Password%20Generator) | Random strong password generator with GUI | Java, Swing |
+
 
 ---
 
